@@ -1,4 +1,4 @@
-## TASK 5: OSCILLATIONS
+## TASK 6: OSCILLATIONS
 def oscillations(a, b, c, d, e, pars):
     # Make a copy of the pars dictionary to avoid modifying the original
     local_pars = pars.copy()
