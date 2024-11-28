@@ -22,3 +22,7 @@ This project explores the dynamics of the Wilson-Cowan model, a mathematical fra
 ### References
 
 The code is based on the Jupyter Notebook provided [here](https://github.com/alessiomarta/mean_field_wilson_cowan_lecture/blob/master/wilson_cowan_jupyter.ipynb)
+
+### Further
+
+One next step is to better implement and analyze Task 5, which describes possible oscillatory behaviours for some population of neurons.
